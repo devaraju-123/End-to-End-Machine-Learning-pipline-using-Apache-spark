@@ -1,16 +1,16 @@
 # End-to-End-Machine-Learning-pipline-using-Apache-spark
-End to End Machine Learning pipline using Apache spark - databriks
+End to End Machine Learning pipeline using Apache spark - databriks
 
 
 SPARK ML pipeline
 
-spark hava pipelines called tranformers and Estimators
+spark hava pipelines called transformers and Estimators
 
-transformers are a pre defined pakages, they are preporcessing features transforms
+transformers are a pre-defined pakages, they are preprocessing features transforms
 
 like, tokenizers, stopwords, normalizer, onehotencoders, standardscaler etc
 
-Estimatores also same a pre defined packeges for classfication and regression models like state of art algorithems.
+Estimators also same a pre-defined packages for classification and regression models like state of art algorithms.
 
 
 Please find below link: complete ML project
